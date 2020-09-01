@@ -1,0 +1,7 @@
+D:\Dev\lab2\LabEjPag192\LabEjPag192\bin\Debug\LabEjPag192.exe.config
+D:\Dev\lab2\LabEjPag192\LabEjPag192\bin\Debug\LabEjPag192.exe
+D:\Dev\lab2\LabEjPag192\LabEjPag192\bin\Debug\LabEjPag192.pdb
+D:\Dev\lab2\LabEjPag192\LabEjPag192\obj\Debug\LabEjPag192.csprojAssemblyReference.cache
+D:\Dev\lab2\LabEjPag192\LabEjPag192\obj\Debug\LabEjPag192.csproj.CoreCompileInputs.cache
+D:\Dev\lab2\LabEjPag192\LabEjPag192\obj\Debug\LabEjPag192.exe
+D:\Dev\lab2\LabEjPag192\LabEjPag192\obj\Debug\LabEjPag192.pdb
